@@ -7,3 +7,5 @@ another fooBar
 
 ### even more updates
 hoho
+
+### master merge
